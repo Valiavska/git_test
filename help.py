@@ -1,4 +1,26 @@
-print("hello python!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jghfvjhgfprint("hello python!")
 laks.jfslk.jheklsdhfj
 s='sun'
 print(len(s), s[0], s[2])
